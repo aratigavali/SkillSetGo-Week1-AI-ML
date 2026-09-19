@@ -107,7 +107,3 @@ This week helped me understand the basic Machine Learning workflow, starting fro
 **Arati Gavali**
 
 B.E. Artificial Intelligence & Machine Learning
-
-**Arati Gavali**
-
-B.E. Artificial Intelligence & Machine Learning
